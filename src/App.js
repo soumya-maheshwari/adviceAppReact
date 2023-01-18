@@ -24,6 +24,9 @@ class App extends Component {
       <div className="container">
         <div className="card">
           <h1>{advice}</h1>
+          <button className="btn" onClick={this.fetching}>
+            <span>ADVICE ME</span>
+          </button>
         </div>
       </div>
     );
