@@ -17,10 +17,11 @@
 .card {
   width: 40%;
   height: 40%;
-  background-color: white;
+  background-color: whitesmoke;
   justify-content: center;
   text-align: center;
   align-items: center;
+  flex-direction: column;
   display: flex;
   border-radius: 60px;
   box-shadow: 20px 20px 40px;
@@ -29,5 +30,27 @@
 h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  letter-spacing: 6px;
+  letter-spacing: 4px;
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  position: relative;
+  outline: none;
+  text-decoration: none;
+  border-radius: 50px;
+  width: 200px;
+  height: 60px;
+  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  background-color: rgb(147, 196, 199);
+  margin-top: 10px;
+}
+
+.btn:hover {
+  background-color: rgb(109, 178, 238);
 }
