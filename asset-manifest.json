@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/adviceAppReact/static/css/main.b64d215f.css",
+    "main.js": "/adviceAppReact/static/js/main.a80dc2dc.js",
+    "static/js/787.ec704a7a.chunk.js": "/adviceAppReact/static/js/787.ec704a7a.chunk.js",
+    "static/media/bg.jpg": "/adviceAppReact/static/media/bg.a6fa40e5f6d38b7e359e.jpg",
+    "index.html": "/adviceAppReact/index.html",
+    "main.b64d215f.css.map": "/adviceAppReact/static/css/main.b64d215f.css.map",
+    "main.a80dc2dc.js.map": "/adviceAppReact/static/js/main.a80dc2dc.js.map",
+    "787.ec704a7a.chunk.js.map": "/adviceAppReact/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b64d215f.css",
+    "static/js/main.a80dc2dc.js"
+  ]
+}
